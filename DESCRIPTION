@@ -1,0 +1,8 @@
+Package: Agora Nomic
+Type: Package
+Title: Services for Nomic
+Version: 
+Date: 2017-09-24
+Author: Publius Scribonius Scholasticus
+Maintainer: Publius Scribonius Scholasticus <p.scribonius.scholasticus@gmail.com>
+License: MIT
